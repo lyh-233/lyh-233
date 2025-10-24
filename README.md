@@ -14,7 +14,7 @@ I'm a TCM Student🎓 [@ The Ohio State University 🅾️](https://www.cdutcm.e
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working as a Researcher at **[@ The Ohio State University - Wexner Medical Center 🅾️](https://wexnermedical.osu.edu/)**
+- 🔭 I’m currently working as a Researcher at **EI**
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Machine Learning & Data Science
   - 🖼 Computer Vision
@@ -23,7 +23,6 @@ I'm a TCM Student🎓 [@ The Ohio State University 🅾️](https://www.cdutcm.e
 - 📝 I write technical blogs and articles
 - 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
 - 💬 Ask me about Python, ML, DL, CV, NLP
-- 📙 Check out my [Resume](https://www.linkedin.com/in/hemanthkollipara/)
 - 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
 
   

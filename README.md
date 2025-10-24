@@ -49,7 +49,7 @@ I'm a TCM Student🎓 [@ The Ohio State University 🅾️](https://www.cdutcm.e
 
 ### 🚀 Quick Stats
 <p align="center">
-<img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=Defcon27&show_icons=true&line_height=21&theme=react" alt="Defcon27's Github Stats" />
+<img width="450" align="left" src="https://github-readme-stats-lyh-233.vercel.app/api?username=lyh-233&show_icons=true&line_height=21&theme=react" alt="lyh-233's Github Stats" />
 <!-- <img width="340" height="155" align="center" 
      src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Defcon27&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" /> -->
 </p>

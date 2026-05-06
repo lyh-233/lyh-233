@@ -7,7 +7,7 @@
 
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm a TCM Student🎓 [@ CHENGDU UNIVERSITY OF TCM](https://www.cdutcm.edu.cn/)** majoring in AI OF TCM. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+I'm a TCM Student🎓 [@ CHENGDU UNIVERSITY OF TCM](https://www.cdutcm.edu.cn/) majoring in AI OF TCM. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
 
 
 
@@ -22,7 +22,7 @@ I'm a TCM Student🎓 [@ CHENGDU UNIVERSITY OF TCM](https://www.cdutcm.edu.cn/)*
   - 🤖 Robotics
 - 📝 I write technical blogs and articles
 - 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
-- 💬 Ask me about Python, ML, DL, CV, NLP
+- 💬 Ask me about Python, Rust, Linux, VLA, LLM
 - 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
 
   
